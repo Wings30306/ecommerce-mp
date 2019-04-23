@@ -1,0 +1,1 @@
+[![Build Status](https://travis-ci.org/Wings30306/ecommerce-mp.svg?branch=master)](https://travis-ci.org/Wings30306/ecommerce-mp)
